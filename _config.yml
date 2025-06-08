@@ -1,0 +1,15 @@
+title: Peek-n-Trace app
+author: OVM SOFT
+theme: minima
+description: SOON
+
+# 2.5.2 (2024)
+remote_theme: jekyll/minima@c6e74bb
+
+header_pages:
+    - about.md
+    - free-vs-paid.md
+    - issues.md
+    - privacy.md
+    - support.md
+
