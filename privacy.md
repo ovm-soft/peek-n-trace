@@ -14,7 +14,7 @@ permalink: /privacy/
 ## <a name="english"></a>English
 Look-n-Trace app respects your privacy.
 
-Our app does not collect, store, or share any personal information. The only permission we request is to send notifications, which are used solely to provide you with helpful reminders.
+Our app does not collect, store, or share any personal information. The app requests access to the camera and media files only to let you select an image to trace using the camera and browse/save images from the gallery.
 
 We also display advertisements in our FREE version of the app. These ads may be served by third-party services (such as Google AdMob), which may use limited data (like device type or advertising ID) to show relevant ads. We do not access or control this data.
 
@@ -31,7 +31,7 @@ For more details, you can view [RevenueCat’s privacy policy](https://www.reven
 ## <a name="ukrainian"></a>Українська
 Застосунок Look-n-Trace поважає вашу конфіденційність.
 
-Наш застосунок не збирає, не зберігає та не передає жодної особистої інформації. Єдиний дозвіл, який ми запитуємо, — це надсилання сповіщень, які використовуються виключно для надання корисних нагадувань.
+Наш застосунок не збирає, не зберігає та не передає жодної особистої інформації. Додаток запитує доступ до камери та медіафайлів лише для того, щоб ви могли вибрати зображення для обведення за допомогою камери та переглядати/зберігати зображення з галереї.
 
 У безкоштовній версії нашого застосунку також відображаються рекламні оголошення. Ці оголошення можуть надаватися сторонніми службами (такими як Google AdMob), які можуть використовувати обмежені дані (наприклад, тип пристрою або рекламний ідентифікатор) для показу релевантної реклами. Ми не маємо доступу до цих даних і не контролюємо їх.
 
@@ -48,7 +48,7 @@ RevenueCat не збирає особисту інформацію корист�
 ## <a name="polish"></a>Polski
 Aplikacja Look-n-Trace szanuje Twoją prywatność.
 
-Nasza aplikacja nie gromadzi, nie przechowuje ani nie udostępnia żadnych danych osobowych. Jedyne uprawnienie, o które prosimy, to możliwość wysyłania powiadomień, które służą wyłącznie do przekazywania przydatnych przypomnień.
+Nasza aplikacja nie gromadzi, nie przechowuje ani nie udostępnia żadnych danych osobowych. Aplikacja prosi o dostęp do aparatu i plików multimedialnych wyłącznie po to, aby umożliwić Ci wybór obrazu do odrysowania za pomocą aparatu oraz przeglądanie/zapisywanie obrazów z galerii.
 
 W DARMOWEJ wersji naszej aplikacji wyświetlane są również reklamy. Reklamy te mogą być dostarczane przez usługi zewnętrzne (takie jak Google AdMob), które mogą wykorzystywać ograniczone dane (np. typ urządzenia lub identyfikator reklamowy), aby wyświetlać trafne reklamy. Nie mamy dostępu do tych danych ani nie sprawujemy nad nimi kontroli.
 
@@ -65,7 +65,7 @@ Więcej informacji: [Polityka prywatności RevenueCat](https://www.revenuecat.co
 ## <a name="french"></a>Française
 L’application Look-n-Trace respecte votre vie privée.
 
-Notre application ne collecte, ne stocke ni ne partage aucune information personnelle. La seule autorisation que nous demandons est l'envoi de notifications, utilisées uniquement pour vous fournir des rappels utiles.
+Notre application ne collecte, ne stocke ni ne partage aucune information personnelle. L’application demande l’accès à la caméra et aux fichiers multimédias uniquement pour vous permettre de sélectionner une image à tracer avec la caméra et de parcourir/enregistrer des images depuis la galerie.
 
 Nous affichons également des publicités dans la version GRATUITE de notre application. Ces publicités peuvent être fournies par des services tiers (tels que Google AdMob), qui peuvent utiliser des données limitées (comme le type d'appareil ou l'identifiant publicitaire) pour afficher des annonces pertinentes. Nous n'avons pas accès à ces données et ne les contrôlons pas.
 
@@ -82,7 +82,7 @@ Pour plus d’informations veuillez consulter [La politique de confidentialité 
 ## <a name="german"></a>Deutsche
 Die Look-n-Trace App respektiert Ihre Privatsphäre.
 
-Unsere App sammelt, speichert oder teilt keine persönlichen Informationen. Die einzige Berechtigung, die wir anfordern, ist das Senden von Benachrichtigungen, die ausschließlich dazu dienen, Ihnen hilfreiche Erinnerungen bereitzustellen.
+Unsere App sammelt, speichert oder teilt keine persönlichen Informationen. Die App fordert nur Zugriff auf die Kamera und Mediendateien an, um Ihnen das Auswählen eines Bildes zum Nachzeichnen mit der Kamera sowie das Durchsuchen und Speichern von Bildern aus der Galerie zu ermöglichen.
 
 In der KOSTENLOSEN Version unserer App zeigen wir auch Werbung an. Diese Anzeigen können von Drittanbietern (wie Google AdMob) bereitgestellt werden, die möglicherweise begrenzte Daten (wie Gerätetyp oder Werbe-ID) verwenden, um relevante Werbung anzuzeigen. Wir haben keinen Zugriff auf diese Daten und kontrollieren sie nicht.
 
@@ -99,7 +99,7 @@ Weitere Informationen finden Sie in [der Datenschutzrichtlinie von RevenueCat](h
 ## <a name="russian"></a>Русский
 Приложение Look-n-Trace уважает вашу конфиденциальность.
 
-Наше приложение не собирает, не хранит и не передаёт личную информацию. Единственное разрешение, которое мы запрашиваем, — это отправка уведомлений, используемых исключительно для полезных напоминаний.
+Наше приложение не собирает, не хранит и не передаёт личную информацию. Приложение запрашивает доступ к камере и мультимедийным файлам только для того, чтобы вы могли выбрать изображение для обводки с помощью камеры и просматривать/сохранять изображения из галереи.
 
 В БЕСПЛАТНОЙ версии нашего приложения также отображается реклама. Эти объявления могут предоставляться сторонними сервисами (такими как Google AdMob), которые могут использовать ограниченные данные (например, тип устройства или рекламный идентификатор) для показа релевантной рекламы. Мы не получаем доступ к этим данным и не контролируем их.
 
