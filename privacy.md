@@ -22,7 +22,7 @@ No personal data is collected or transmitted off your device by us.
 
 ### Use of RevenueCat
 
-The paid version of our app uses RevenueCat to manage in-app subscriptions and purchases. RevenueCat acts as a service provider that securely handles transaction data and communicates with the app stores (such as Google Play, Apple App Store) to determine subscription status.
+Our app uses RevenueCat to manage in-app subscriptions and purchases. RevenueCat acts as a service provider that securely handles transaction data and communicates with the app stores (such as Google Play, Apple App Store) to determine subscription status.
 
 RevenueCat does not collect any personally identifiable information from users. Subscription data is used solely to verify access rights and ensure the correct functionality of the app.
 
@@ -39,7 +39,7 @@ For more details, you can view [RevenueCat’s privacy policy](https://www.reven
 
 ### Використання RevenueCat
 
-Платна версія нашого додатку використовує RevenueCat для керування підписками та покупками в додатку. RevenueCat виступає постачальником послуг, який безпечно обробляє дані транзакцій і взаємодіє з магазинами додатків (такими як Google Play, Apple App Store) для перевірки статусу підписки.
+Наш додаток використовує RevenueCat для керування підписками та покупками в додатку. RevenueCat виступає постачальником послуг, який безпечно обробляє дані транзакцій і взаємодіє з магазинами додатків (такими як Google Play, Apple App Store) для перевірки статусу підписки.
 
 RevenueCat не збирає особисту інформацію користувачів. Дані підписки використовуються виключно для перевірки прав доступу та забезпечення коректної роботи додатку.
 
@@ -56,7 +56,7 @@ Nie zbieramy ani nie przesyłamy żadnych danych osobowych z Twojego urządzenia
 
 ### Korzystanie z RevenueCat
 
-Płatna wersja naszej aplikacji korzysta z RevenueCat do zarządzania subskrypcjami i zakupami w aplikacji. RevenueCat działa jako dostawca usług, który bezpiecznie przetwarza dane transakcyjne i komunikuje się ze sklepami z aplikacjami (np. Google Play, Apple App Store), aby sprawdzić status subskrypcji.
+Nasza aplikacja korzysta z RevenueCat do zarządzania subskrypcjami i zakupami w aplikacji. RevenueCat działa jako dostawca usług, który bezpiecznie przetwarza dane transakcyjne i komunikuje się ze sklepami z aplikacjami (np. Google Play, Apple App Store), aby sprawdzić status subskrypcji.
 
 RevenueCat nie gromadzi danych osobowych użytkowników. Dane subskrypcyjne są wykorzystywane wyłącznie do weryfikacji uprawnień dostępu i zapewnienia prawidłowego działania aplikacji.
 
@@ -73,7 +73,7 @@ Aucune donnée personnelle n'est collectée ni transmise depuis votre appareil p
 
 ### Utilisation de RevenueCat
 
-La version payante de notre application utilise RevenueCat pour gérer les abonnements et les achats intégrés. RevenueCat agit en tant que prestataire de services sécurisé, traitant les données de transaction et communiquant avec les magasins d'applications (comme Google Play, Apple App Store) pour vérifier le statut des abonnements.
+Notre application utilise RevenueCat pour gérer les abonnements et les achats intégrés. RevenueCat agit en tant que prestataire de services sécurisé, traitant les données de transaction et communiquant avec les magasins d'applications (comme Google Play, Apple App Store) pour vérifier le statut des abonnements.
 
 RevenueCat ne collecte aucune information personnelle identifiable sur les utilisateurs. Les données d'abonnement sont utilisées uniquement pour vérifier les droits d'accès et garantir le bon fonctionnement de l'application.
 
@@ -90,7 +90,7 @@ Es werden von uns keine personenbezogenen Daten von Ihrem Gerät gesammelt oder 
 
 ### Verwendung von RevenueCat
 
-Die kostenpflichtige Version unserer App verwendet RevenueCat zur Verwaltung von Abonnements und In-App-Käufen. RevenueCat fungiert als Dienstleister, der Transaktionsdaten sicher verarbeitet und mit App-Stores (z. B. Google Play, Apple App Store) kommuniziert, um den Abonnementstatus zu überprüfen.
+Unserer App verwendet RevenueCat zur Verwaltung von Abonnements und In-App-Käufen. RevenueCat fungiert als Dienstleister, der Transaktionsdaten sicher verarbeitet und mit App-Stores (z. B. Google Play, Apple App Store) kommuniziert, um den Abonnementstatus zu überprüfen.
 
 RevenueCat erfasst keine personenbezogenen Daten von Nutzern. Abonnementdaten werden ausschließlich verwendet, um Zugriffsrechte zu prüfen und die ordnungsgemäße Funktion der App sicherzustellen.
 
@@ -107,7 +107,7 @@ Weitere Informationen finden Sie in [der Datenschutzrichtlinie von RevenueCat](h
 
 ### Использование RevenueCat
 
-Платная версия нашего приложения использует RevenueCat для управления подписками и покупками внутри приложения. RevenueCat действует как поставщик услуг, который безопасно обрабатывает данные транзакций и взаимодействует с магазинами приложений (например, Google Play, Apple App Store) для определения статуса подписки.
+Наше приложение использует RevenueCat для управления подписками и покупками внутри приложения. RevenueCat действует как поставщик услуг, который безопасно обрабатывает данные транзакций и взаимодействует с магазинами приложений (например, Google Play, Apple App Store) для определения статуса подписки.
 
 RevenueCat не собирает персональные данные пользователей. Данные о подписке используются исключительно для проверки прав доступа и обеспечения корректной работы приложения.
 
