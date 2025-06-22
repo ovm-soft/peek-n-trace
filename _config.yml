@@ -8,7 +8,6 @@ remote_theme: jekyll/minima@c6e74bb
 
 header_pages:
     - about.md
-    - free-vs-paid.md
     - issues.md
     - privacy.md
     - support.md
