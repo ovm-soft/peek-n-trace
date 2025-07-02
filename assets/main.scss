@@ -1,0 +1,21 @@
+---
+# https://github.com/jekyll/minima/tree/v2.5.1#Customizatio
+# https://talk.jekyllrb.com/t/how-to-add-a-logo-to-minima-theme/4120/8
+---
+
+@import "minima";
+
+.site-title::before {
+content: "";
+    display: inline-block;
+    background-image: url("/look-n-trace/assets/main_icon_32.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    position: relative;
+    width: 32px;
+    height: 32px;
+    top : 5px;
+    right: 5px;
+ }
